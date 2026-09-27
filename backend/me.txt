@@ -1,0 +1,37 @@
+ABOUT ME
+
+My name is Prathamesh Uravane. I am pursuing a Master of Science in Applied Machine Learning at the University of Maryland and work as a Teaching Assistant. My interests include AI engineering, applied machine learning, large language models, retrieval-augmented generation (RAG), AI agents, computer vision, and cloud-based AI systems.
+
+I enjoy turning machine learning ideas into practical applications, particularly in healthcare, education, and document-based question answering. I care about evaluating models and building systems that produce useful, grounded results.
+
+EDUCATION AND TEACHING
+
+My graduate studies focus on applied machine learning. As a Teaching Assistant, I support students learning deep learning and help explain technical concepts, tools, and coursework. My teaching-related work includes PyTorch setup, Python environments, and Jupyter notebook workflows.
+
+TECHNICAL BACKGROUND
+
+My background includes Python, machine learning, deep learning, computer vision, medical imaging, and LLM applications. I have worked with RAG concepts and tools such as LangChain and ChromaDB, including document ingestion, semantic retrieval, reranking, grounded generation, and evaluation.
+
+I am interested in extending this work through cloud deployment, MLOps, observability, and reliable AI workflows.
+
+PROJECTS AND EXPERIENCE
+
+InsureLLM: An insurance-focused RAG project involving document ingestion, semantic retrieval, reranking, grounded answer generation, and conversational memory. Evaluation covered 150 test cases, with MRR of 0.8750, nDCG of 0.8539, and keyword coverage of 95.7%.
+
+Healthcare AI and computer vision: My project experience includes fall detection with reported accuracy of 95% and brain-tumor classification from MRI images with reported accuracy of 96%.
+
+Ops-Copilot: A portfolio proof of concept using simulated or public data to explore AI-assisted operational workflows.
+
+AI engineering collaboration in Peru: I worked with a cross-domain team on an educational AI project. We shared educational data and built an AI model intended to improve students' academic outcomes. The collaboration involved working across language barriers.
+
+CAREER INTERESTS
+
+I am interested in AI engineering, applied AI, machine learning engineering, and software or data engineering roles involving AI systems. I am especially interested in RAG, AI agents, computer vision, healthcare AI, and cloud systems.
+
+COMMUNICATION STYLE
+
+I prefer clear, concise, practical explanations with concrete examples and actionable steps. I value accurate descriptions of my experience and evidence-backed claims about project results.
+
+PROFILE CONTEXT
+
+This profile was drafted on September 26, 2026, from details I previously shared. Education, roles, and project metrics should be checked against my latest resume before use in formal applications.

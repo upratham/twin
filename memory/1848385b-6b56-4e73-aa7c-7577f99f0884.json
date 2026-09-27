@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "HI, Im alex"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Alex! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "whats my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Alex. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "whats my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Alex. How can I assist you further?"
+  },
+  {
+    "role": "user",
+    "content": "who are you ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m an AI here to help answer your questions and provide information. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "who is prathamesh/"
+  },
+  {
+    "role": "assistant",
+    "content": "Prathamesh Uravane is a Master's student in Applied Machine Learning at the University of Maryland, where he also works as a Teaching Assistant. His interests include AI engineering, applied machine learning, large language models, and various AI applications, especially in healthcare and education. Prathamesh has experience with projects involving retrieval-augmented generation (RAG), computer vision, and cloud-based AI systems. If you have more specific questions about him or his work, feel free to ask!"
+  }
+]
